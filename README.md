@@ -1,6 +1,6 @@
-#Maior de três números
+# Maior de três números
 
-##Leia três números e exiba o maior
+## Leia três números e exiba o maior
 
 Projeto proposto para estudar e aplicar conhecimentos adquiridos aos estudos de Java 21.
 
